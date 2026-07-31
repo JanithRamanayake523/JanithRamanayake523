@@ -1,12 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Janith%20Ramanayake&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=55&descSize=20"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&repeat=true&width=700&lines=Hi+👋+I'm+Janith+Ramanayake;AI+Researcher+from+Sri+Lanka+🇱🇰;Deep+Learning+%7C+NLP+%7C+LLM+Alignment;Teaching+machines+to+understand+humans+🤖;Turning+coffee+into+research+papers+☕"/>
-</a>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=JanithRamanayake523&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <a href="https://github.com/JanithRamanayake523?tab=followers"><img src="https://img.shields.io/github/followers/JanithRamanayake523?label=Followers&style=for-the-badge&color=236ad3"/></a>
 <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
