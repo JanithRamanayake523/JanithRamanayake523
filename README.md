@@ -18,8 +18,10 @@
 
 <img align="right" alt="AI coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Reading **BSc (Hons) in Data Science** — University of Colombo, Faculty of Science
-- 🔬 Researching **Socio-Cultural Alignment of LLMs for Low-Resource Languages**
+- 🎓 Graduated with **BSc (Hons) in Data Science, First Class** 🏅 — University of Colombo, Department of Statistics
+- 💼 **Full-time Research Assistant** — University of Moratuwa, Dept. of Computer Science & Engineering, working on **LLMs for Low-Resource Languages**
+- 🎮 **Part-time Research Assistant** — University of Peradeniya, Dept. of Statistics & Computer Science, working on **Cybersecurity Awareness through Gamification**
+- ⚛️ Growing interest in **Quantum Computing research**
 - 🌱 Currently deep-diving into **RLHF, Parameter-Efficient Fine-Tuning & RAG**
 - 📝 Published **3 papers** at ACL-venues & IEEE conferences *(dummy)*
 - 👯 Open to collaborate on **NLP for low-resource languages & evaluation benchmarks**
