@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hi+👋+I'm+Janith+Ramanayake;AI+Researcher+from+Sri+Lanka+🇱🇰;Deep+Learning+%7C+NLP+%7C+LLM+Alignment;Teaching+machines+to+understand+humans+🤖;Turning+coffee+into+research+papers+☕"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&repeat=true&width=700&lines=Hi+👋+I'm+Janith+Ramanayake;AI+Researcher+from+Sri+Lanka+🇱🇰;Deep+Learning+%7C+NLP+%7C+LLM+Alignment;Teaching+machines+to+understand+humans+🤖;Turning+coffee+into+research+papers+☕"/>
 </a>
 </p>
 
