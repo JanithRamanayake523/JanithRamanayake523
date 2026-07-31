@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Janith%20Ramanayake&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=55&descSize=20"/>
 
 <p align="center">
+<img width="700" src="assets/typing.gif" alt="Hi, I'm Janith Ramanayake — AI Researcher"/>
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=JanithRamanayake523&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <a href="https://github.com/JanithRamanayake523?tab=followers"><img src="https://img.shields.io/github/followers/JanithRamanayake523?label=Followers&style=for-the-badge&color=236ad3"/></a>
 <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
