@@ -7,8 +7,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JanithRamanayake523&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <a href="https://github.com/JanithRamanayake523?tab=followers"><img src="https://img.shields.io/github/followers/JanithRamanayake523?label=Followers&style=for-the-badge&color=236ad3"/></a>
-<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-<a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
 <a href="https://huggingface.co/JaniRaviRash-523"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge"/></a>
 </p>
 
@@ -36,9 +34,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🗣️%20Low--Resource%20NLP-0f2027?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🤖%20LLM%20Alignment-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊%20Model%20Evaluation-2c5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧬%20Multimodal%20Learning-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌏%20Cross--Cultural%20AI-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🩺%20Med%20AI-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚛️%20Quantum--Classical%20Computing-0f2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛡️%20Cyber%20Security%20Awareness-203a43?style=for-the-badge"/>
 </p>
 
 ---
@@ -107,7 +105,7 @@
 <a href="https://github.com/JanithRamanayake523"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/janithramanayake523/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0001-5032-1844"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<a href="https://huggingface.co/JaniRaviRash-523"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/></a>
+<a href="https://huggingface.co/JaniRaviRash-523"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="mailto:janithramanayake523@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://janithramanayake.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
