@@ -43,14 +43,17 @@
 
 ---
 
-## 📚 Selected Publications *(dummy — replace with yours)*
+## 📚 Selected Publications
 
-> 📄 **"CulturalBENCH: Evaluating Socio-Cultural Alignment of LLMs in Sinhala"** — *ACL 2025 Findings*
-> 🏆 Best Short Paper Nominee
+> 📄 **"Systematic Evaluation of Signal-to-Image Transformation Pipelines for Vision Transformer-based Sleep Stage Classification"** — *SCICASH 2026, Conference Paper* ⏳ *Under Review*
 >
-> 📄 **"LoRA-S: Parameter-Efficient Adaptation for Low-Resource Language Instruction Tuning"** — *IEEE ICTer 2024*
+> 📄 **"Quantum Mutual Information for Causal Feature Selection: An Empirical Study of Feature Recovery and Treatment Effect Estimation"** — *ICTer 2026* ⏳ *Under Review*
 >
-> 📄 **"Lost in Translation: Commonsense Reasoning Gaps in Multilingual LLMs"** — *arXiv preprint, 2025*
+> 📄 **["Machine Learning Framework for Predicting Thermophysical Properties of Polymers from SMILES Representations"](https://www.sci.ruh.ac.lk/conference/ristcon2026/RISTCON%202026%20Proceedings%20draft_1.pdf#page=102)** — *RISTCON 2026, Conference Abstract*
+>
+> 📄 **["Representation Separability of Signal-to-Image Transformations for Sleep Stage Classification Using Pretrained Vision Transformers"](https://science.cmb.ac.lk/icds/icds-2025/proceedings/#flipbook-df_1135/78/)** — *ICDS 2025, Conference Abstract*
+>
+> 🎓 **"Enhancing Sleep Stage Classification with Vision Transformers: A Study on Image Transformations, Data Augmentation, and Model Optimization"** — *Undergraduate Thesis, 2025* — University of Colombo, Dept. of Statistics
 
 ---
 
