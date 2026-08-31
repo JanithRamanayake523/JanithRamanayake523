@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JanithRamanayake523&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanithRamanayake523&theme=tokyo_night" />
 </p>
 
 ## 🏆 GitHub Trophies
